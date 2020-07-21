@@ -1,0 +1,189 @@
+Tue Jul 21 2020 03:50:33 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for undefined 
+Tue Jul 21 2020 03:55:55 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for / 
+Tue Jul 21 2020 03:55:55 GMT-0700 (Pacific Daylight Time) | INFO | Request Handler | Request handler for index was called. 
+Tue Jul 21 2020 03:59:19 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for / 
+Tue Jul 21 2020 03:59:19 GMT-0700 (Pacific Daylight Time) | INFO | Request Handler | Request handler for index was called. 
+Tue Jul 21 2020 04:07:30 GMT-0700 (Pacific Daylight Time) | INFO | Server | Server has started on Port: 8000 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for / has been received with the request method GET 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for / 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Request Handler | Request handler for index was called. 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /css/mini.css has been received with the request method GET 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /css/mini.css 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /css/master.css has been received with the request method GET 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /css/master.css 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /css/bootstrap.css has been received with the request method GET 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /css/bootstrap.css 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /js/script.js has been received with the request method GET 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /js/script.js 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/logo.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/logo.png 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/mouse_click.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:44 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/mouse_click.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/design_icon.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/design_icon.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/dev_icon.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/dev_icon.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/product_icon.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/product_icon.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work4.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work4.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work3.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work3.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work2.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work2.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work1.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work1.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work5.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work5.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work6.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work6.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work7.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work7.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work8.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work8.jpg 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/twitter.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/twitter.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/dribble.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/dribble.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/facebook.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/facebook.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/g_plus.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/g_plus.png 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/skype.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:45 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/skype.png 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/you_tube.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/you_tube.png 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/behance.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/behance.png 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/pinterest.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/pinterest.png 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/stumble_upon.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/stumble_upon.png 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/flickr.png has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/flickr.png 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/shoes.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/shoes.jpg 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/laptop.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/laptop.jpg 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/mechanical.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:07:46 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/mechanical.jpg 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Regular.woff2 has been received with the request method GET 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Regular.woff2 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Regular.woff2 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Bold.woff2 has been received with the request method GET 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Bold.woff2 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Bold.woff2 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Medium.woff2 has been received with the request method GET 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Medium.woff2 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Medium.woff2 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Regular.woff has been received with the request method GET 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Regular.woff 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Regular.woff 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Bold.woff has been received with the request method GET 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Bold.woff 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Bold.woff 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Medium.woff has been received with the request method GET 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Medium.woff 
+Tue Jul 21 2020 04:07:47 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Medium.woff 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Regular.ttf has been received with the request method GET 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Regular.ttf 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Regular.ttf 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Bold.ttf has been received with the request method GET 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Bold.ttf 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Bold.ttf 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Medium.ttf has been received with the request method GET 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Medium.ttf 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Medium.ttf 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /favicon.ico has been received with the request method GET 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /favicon.ico 
+Tue Jul 21 2020 04:07:48 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /favicon.ico 
+Tue Jul 21 2020 04:08:27 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for / has been received with the request method GET 
+Tue Jul 21 2020 04:08:27 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for / 
+Tue Jul 21 2020 04:08:27 GMT-0700 (Pacific Daylight Time) | INFO | Request Handler | Request handler for index was called. 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /css/mini.css has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /css/mini.css 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /css/master.css has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /css/master.css 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /css/bootstrap.css has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /css/bootstrap.css 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /js/script.js has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /js/script.js 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/logo.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/logo.png 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/mouse_click.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/mouse_click.png 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/design_icon.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/design_icon.png 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/dev_icon.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/dev_icon.png 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/product_icon.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/product_icon.png 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work4.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work4.jpg 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work3.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work3.jpg 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work2.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work2.jpg 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work1.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work1.jpg 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work5.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work5.jpg 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work6.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:28 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work6.jpg 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work7.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work7.jpg 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/work8.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/work8.jpg 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/twitter.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/twitter.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/dribble.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/dribble.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/facebook.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/facebook.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/g_plus.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/g_plus.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/skype.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/skype.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/you_tube.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/you_tube.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/behance.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/behance.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/pinterest.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/pinterest.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/stumble_upon.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/stumble_upon.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/flickr.png has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/flickr.png 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/shoes.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/shoes.jpg 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/laptop.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/laptop.jpg 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /images/mechanical.jpg has been received with the request method GET 
+Tue Jul 21 2020 04:08:29 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /images/mechanical.jpg 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Regular.woff2 has been received with the request method GET 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Regular.woff2 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Regular.woff2 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Bold.woff2 has been received with the request method GET 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Bold.woff2 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Bold.woff2 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Medium.woff2 has been received with the request method GET 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Medium.woff2 
+Tue Jul 21 2020 04:08:30 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Medium.woff2 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Regular.woff has been received with the request method GET 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Regular.woff 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Regular.woff 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Bold.woff has been received with the request method GET 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Bold.woff 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Bold.woff 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Medium.woff has been received with the request method GET 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Medium.woff 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Medium.woff 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Regular.ttf has been received with the request method GET 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Regular.ttf 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Regular.ttf 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Bold.ttf has been received with the request method GET 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Bold.ttf 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Bold.ttf 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Server | Request for /font/roboto/Roboto-Medium.ttf has been received with the request method GET 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | About to route a request for /font/roboto/Roboto-Medium.ttf 
+Tue Jul 21 2020 04:08:31 GMT-0700 (Pacific Daylight Time) | INFO | Router | No request handler found for /font/roboto/Roboto-Medium.ttf 
